@@ -1,0 +1,14 @@
+1.  To increase spacing between lines , use 'line-height' property , and to increase space , set it to values greater than 1 (increase in decimals , 0.1 ke steps mein)
+
+
+ <div style="display: flex; flex-direction: column; justify-content: center;">
+                <img src="./cta-img-bg 1.png" style="border-radius: 20px; width: 75vw; ">
+                <div class="search-bar-container" style="position: relative; right: 500px; ">
+                    <form class="search-bar" action="/subscribe" method="post">
+                        <input type="text" name="email" placeholder="Enter your email">
+                        <button type="submit">Subscribe</button>
+                    </form>
+                </div>
+            </div> 
+ <img src="./Get Or Promo Code by Subscribing To our Newsletter.png" style="position: relative; bottom: 300px; left: 370px;">
+        
